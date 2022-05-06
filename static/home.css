@@ -1,0 +1,13 @@
+body{
+    font-family: 'Indie Flower', cursive;
+}
+textarea{
+    resize: none;
+    height: 50vh;
+    width: 100%;
+    background: rgb(226, 173, 173);
+}
+
+#output{
+    border: 1px solid #000
+}
